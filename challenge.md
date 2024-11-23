@@ -150,3 +150,8 @@ list of random pokemon you can choose from
 
 \* if not already chosen
 \** trade-off: good for elite 4, but not (so) good for gym leader
+
+
+# Tools
+
+[Reddit | ROM Hacking Tools Pack - All the essentials to hack Fire Red and Emerald!](https://www.reddit.com/r/PokemonROMhacks/comments/1c406ht/rom_hacking_tools_pack_all_the_essentials_to_hack/)
